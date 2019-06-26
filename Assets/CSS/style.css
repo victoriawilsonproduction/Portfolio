@@ -2,3 +2,11 @@ h1 {
 	color: blue;
 	
 }
+
+.navbar navbar-dark bg-primary {
+	display: inline-block;
+}
+
+.carousel-indicators {
+	height: 30%;
+}
